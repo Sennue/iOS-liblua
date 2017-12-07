@@ -1,9 +1,15 @@
 //
-//  LuaController.h
-//  liblua
+// LuaController.h
+// liblua - Glue code to use Lua in iOS projects.
 //
-//  Created by Brendan A R Sechter on 10/06/01.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+// Written in 2010 by Brendan A Sechter <sgeos*splat*hotmail*spot*com>
+//
+// To the extent possible under law, the author(s) have dedicated all copyright and
+// related and neighboring rights to this software to the public domain worldwide.
+// This software is distributed without any warranty.
+//
+// You should have received a copy of the CC0 Public Domain Dedication along with
+// this software. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 //
 
 #import <Foundation/Foundation.h>
